@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CabaVS.Shared.Abstractions.Repository", "CabaVS.Shared.Abstractions.Repository.csproj", "{5CDA0E66-602C-4B8C-9076-A39C5D57EEDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CDA0E66-602C-4B8C-9076-A39C5D57EEDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CDA0E66-602C-4B8C-9076-A39C5D57EEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CDA0E66-602C-4B8C-9076-A39C5D57EEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CDA0E66-602C-4B8C-9076-A39C5D57EEDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29E4D308-885E-42E3-AC57-3F741482CAB5}
+	EndGlobalSection
+EndGlobal
